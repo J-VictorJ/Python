@@ -2,6 +2,10 @@
 
 Bem-vindo ao meu repositório de aprendizado em Python! Aqui está uma visão geral do que eu cobri, organizado nas aulas em ordem:
 
+Antes de começar, gostaria de fazer uma observação sobre os comentários presentes no código. Eles foram escritos há mais de um ano, durante minha fase inicial de aprendizado do inglês. Por isso, é possível encontrar alguns erros gramaticais e de escrita. Naquela época, eu estava começando a entender a sintaxe e a gramática do inglês. Peço que releve essas imperfeições, pois refletem meu processo de aprendizado na época.
+
+Agora, sinta-se à vontade para explorar o código.
+
 ## Aulas
 1. **Variáveis:** Introdução a variáveis.
 2. **Numeros:** Trabalhando com números em Python.
@@ -36,6 +40,10 @@ Bem-vindo ao meu repositório de aprendizado em Python! Aqui está uma visão ge
 # English
 
 Welcome to my Python learning repository! Here's an overview of what I've covered, organized in order of lessons:
+
+Before we begin, I'd like to provide a note regarding the comments in the code. They were written over a year ago, during my early stages of learning English. Therefore, you may come across some grammatical and writing errors. At that time, I was just starting to grasp the syntax and grammar of English. Please bear with these imperfections as they reflect my learning process at that point.
+
+Feel free to explore the code now. 
 
 ## Lessons
 1. **Variables:** Introduction to variables.
